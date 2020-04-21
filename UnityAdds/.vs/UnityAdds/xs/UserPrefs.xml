@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{491F4623-B01B-09B0-550A-3ADB93881A18}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/navigation.cs">
+    <Files>
+      <File FileName="Assets/scripts/AdController.cs" Line="9" Column="7" />
+      <File FileName="Assets/scripts/AdController1.cs" Line="16" Column="5" />
+      <File FileName="Assets/scripts/scores.cs" Line="5" Column="28" />
+      <File FileName="Assets/scripts/menuAds2.cs" Line="11" Column="9" />
+      <File FileName="Assets/scripts/navigation.cs" Line="3" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
